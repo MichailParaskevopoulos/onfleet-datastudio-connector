@@ -1,7 +1,7 @@
 # ♾️Onfleet — Google Data Studio Community Connector
 *This is not an official Onfleet product*
 
-The connector script can be used with Data Studio to view and analyze performance metrics from Onfleet. 
+The connector script can be used with Data Studio to view and analyze performance metrics from [Onfleet](https://onfleet.com/). 
 
 ## How to Install
 1. Create a new project on [Google Apps Script](https://script.google.com/)
