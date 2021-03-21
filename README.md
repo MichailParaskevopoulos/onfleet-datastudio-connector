@@ -15,7 +15,7 @@ The connector script can be used with Data Studio to view and analyze performanc
 
 `getSchema` returns the list of columns and the columns' data types that are available from the data source based on the configuration parameters provided by the user.
 
-Finally, `getData` authenticates Onfleet's analytics API using the user's credentials, fetches the data from the API using an HTTP request, and returns the data in a format that is readable by Data Studio. 
+Finally, `getData` authenticates Onfleet's analytics API using the user's credentials, fetches the data from the API using an HTTP request based on the user's configuration parameters, and returns the data in a format that is readable by Data Studio. 
 
 ## Example Usage
 ### Connecting to Onfleet from Data Studio:
