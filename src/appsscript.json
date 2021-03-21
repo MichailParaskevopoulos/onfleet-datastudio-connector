@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "oauthScopes": ["https://www.googleapis.com/auth/script.external_request"],
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "Onfleet GDS Connector",
+    "logoUrl": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_a5a3b33bc24594f0b498618c91d4bbe3/onfleet.png",
+    "company": "Michail Paraskevopoulos",
+    "addonUrl": "https://github.com/MichailParaskevopoulos",
+    "supportUrl": "https://github.com/MichailParaskevopoulos",
+    "description": "Onfleet GDS Connector"
+  }
+}
